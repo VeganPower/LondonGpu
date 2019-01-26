@@ -1,0 +1,105 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>What's new, LondonGPU January.</title>
+
+		<link rel="stylesheet" href="reveal.js/css/reveal.css">
+		<link rel="stylesheet" href="reveal.js/css/theme/black.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="reveal.js/lib/css/zenburn.css">
+      <style type="text/css">
+      </style>
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+      <div class="reveal">
+         <div class="slides">
+<section>
+<H1>What's new in graphics</H1>
+<h3>January 2019<h3>
+<p><small>Rosario Leonardi <a href="https://twitter.com/ilMal3">@ilMal3</a> 22/1/2019</small></p>
+</section>
+<section>
+<H2>News from CES 2019</H2>
+<p class="fragment">AMD released a new Video card, Radeon VII</p>
+<p class="fragment">nVidia will support FreeSync</p>
+<p class="fragment">Many 8K TVs with machine learning upscalers.</p>
+</section>
+<section>
+<H2>Directional Lightmap</H2>
+<p>Peter Pike Sloan wrote another paper about directional lightmap encoding.</p>
+<img src="img/pps.jpg">
+<p><a href="http://www.ppsloan.org/publications/lmap-sabrief18.pdf">http://www.ppsloan.org/publications/lmap-sabrief18.pdf</a>
+</section>
+
+<section>
+<H3>Stochastic Textures by Tiling and Blending</H3>
+<p>Eric Heitz released a demo for his HPG 2018 paper</p>
+<img src="img/hpn2018_teaser.png" height="250">
+<p><a href="https://eheitzresearch.wordpress.com/738-2/">https://eheitzresearch.wordpress.com/738-2/</a>
+</section>
+
+<section>
+<H2>Quake 2 Vulkan raytracing.</H2>
+<img src="img/q2vkpt_0001.jpg" height="300">
+<p><a href="http://brechpunkt.de/q2vkpt/">http://brechpunkt.de/q2vkpt</a>
+</section>
+
+<section>
+<H2>Rendering of Tomb Rider.</H2>
+<img src="img/ROTR.jpg" height="300">
+<p><a href="http://www.elopezr.com/the-rendering-of-rise-of-the-tomb-raider/">http://www.elopezr.com/the-rendering-of-rise-of-the-tomb-raider/</a>
+</section>
+
+<section>
+<H2>Adaptive Exposure from Luminance Histograms.</H2>
+<img src="img/HistogramLuminance.png" height="300">
+<p><a href="http://alextardif.com/HistogramLuminance.html">http://alextardif.com/HistogramLuminance.html</a>
+</section>
+
+<section>
+<H2>Rasterization in one weekend.</H2>
+<img src="img/ef.png">
+<p><a href="https://tayfunkayhan.wordpress.com/2018/11/24/rasterization-in-one-weekend/">https://tayfunkayhan.wordpress.com/2018/11/24/rasterization-in-one-weekend/</a>
+</section>
+
+<section>
+<H2>Windows rendering in Forza Horizon 4.</H2>
+<img src="img/Interiors_Residential_Diffuse.jpg" height="300">
+<p>... and Spiderman  ;)</p>
+<p><a href="http://www.gamasutra.com/view/news/332409/Game_Tech_Deep_Dive_The_fast_and_furious_window_shaders_of_Forza_Horizon_4.php">http://www.gamasutra.com/view/news/332409/Game_Tech_Deep_Dive_The_fast_and_furious_window_shaders_of_Forza_Horizon_4.php</a>
+</section>
+
+			</div>
+		</div>
+
+		<script src="reveal.js/lib/js/head.min.js"></script>
+		<script src="reveal.js/js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+            slideNumber: true,
+				dependencies: [
+					{ src: 'reveal.js/plugin/markdown/marked.js' },
+					{ src: 'reveal.js/plugin/markdown/markdown.js' },
+					// { src: 'plugin/notes/notes.js', async: true },
+					{ src: 'reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>
