@@ -28,6 +28,7 @@ nVidia release driver for enable raytracing on Pascal
 https://www.windowscentral.com/latest-nvidia-driver-update-brings-ray-tracing-geforce-gtx-cards
 
 Variable shader rate on DX12
+https://microsoft.github.io/DirectX-Specs/
 https://www.youtube.com/watch?v=f-SklVb2MDI
 Used for VR or to draw different passes at different rates.
 
