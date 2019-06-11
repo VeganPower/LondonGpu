@@ -24,6 +24,9 @@ https://www.unrealengine.com/en-US/events/unreal-fest-europe-2019/ue4-raytracing
 Nordic Games - Malmo (https://conf.nordicgame.com)
 https://gpuopen.com/presentations/2019/nordic-game-2019-triangles-are-precious.pdf
 
+nVidia release driver for enable raytracing on Pascal
+https://www.windowscentral.com/latest-nvidia-driver-update-brings-ray-tracing-geforce-gtx-cards
+
 Variable shader rate on DX12
 https://www.youtube.com/watch?v=f-SklVb2MDI
 Used for VR or to draw different passes at different rates.
