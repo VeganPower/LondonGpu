@@ -10,3 +10,6 @@ January 2019 meeting - [Hello world](https://www.meetup.com/LondonGPU/events/257
 April 2019 meeting - [Gpu Architecture](https://www.meetup.com/LondonGPU/events/260158585/)
   - [What's new on graphics GDC Special](https://veganpower.github.io/LondonGpu/slides/what_s_new_19_4.html)
   - [Maurizio Cerrato - GPU Architectures](https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view)
+
+June 2019 meeting - [Genesis](https://www.meetup.com/LondonGPU/events/261318251/)
+  - [What's new on graphics](https://veganpower.github.io/LondonGpu/slides/what_s_new_19_6.html)
