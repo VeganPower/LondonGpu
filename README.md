@@ -1,6 +1,10 @@
 # LondonGpu
 Hello, here you can find info the presentation material used during the [LondonGpu](https://www.meetup.com/LondonGPU/) meetup.
 
+September 2019 meeting - [Realtime lightmapping in Wicked Engine](https://www.meetup.com/LondonGPU/events/264221865/)
+  - [What's new on graphics](https://veganpower.github.io/LondonGpu/slides/what_s_new_19_9.html)
+  - Janos slides will be published here soon.
+
 June 2019 meeting - [Genesis](https://www.meetup.com/LondonGPU/events/261318251/)
   - [What's new on graphics](https://veganpower.github.io/LondonGpu/slides/what_s_new_19_6.html)
   - [Darryl Gouder - Genesis Real-time raytracing in virtual production](https://veganpower.github.io/LondonGpu/slides/Genesis_main_talk_LGPU.pdf)
